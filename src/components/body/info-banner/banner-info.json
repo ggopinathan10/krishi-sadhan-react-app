@@ -1,0 +1,15 @@
+{
+    "header":"Krishi Saadhan",
+    "subheader":"A step closer to Next-Gen farming",
+    "images":[
+        "farms.jpeg",
+        "farms.jpeg"
+    ],
+    "notice":[
+        {
+            "header":"COVID notice",
+            "cta-link":"",
+            "type":"critical"
+        }
+    ]
+}
